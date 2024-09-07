@@ -1,6 +1,6 @@
 var input = document.getElementById('inputbox');
 var buttons = document.querySelectorAll('button');
-
+//this updation for check to git status
 let string = "";
 let arr = Array.from(buttons);
 arr.forEach(button => {
